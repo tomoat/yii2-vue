@@ -14,7 +14,6 @@ use yii\web\AssetBundle;
  */
 class VueAsset extends AssetBundle
 {
-    public $sourcePath='@bower/vue/dist/';
     public $css = [
         
     ];
@@ -26,6 +25,7 @@ class VueAsset extends AssetBundle
     ];
     public function init()
     {
-        $this->js[] = YII_ENV_DEV ? 'vue.js' : 'vue.min.js';
+        $this->sourcePath = __DIR__ . '/assets/';
+        $this->js[] = YII_ENV_DEV ? 'vue/dist/vue.js' : 'vue/dist/vue.min.js';
     }
 }
