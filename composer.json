@@ -16,7 +16,7 @@
             "email": "5969226@qq.com",
             "issues": "https://github.com/colee1985/yii2-vue/issues?state=open",
         	"source": "https://github.com/colee1985/yii2-vue",
-        	"homepage": "https://github.com/colee1985/yii2-vue",
+        	"homepage": "https://github.com/colee1985/yii2-vue"
         }
     ],
     "require": {
