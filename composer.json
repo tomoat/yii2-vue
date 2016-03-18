@@ -1,0 +1,24 @@
+{
+    "name": "colee/yii2-vue",
+    "type": "library",
+    "description": "Vue.js library for Yii2 framework",
+    "keywords": [
+        "yii2",
+        "colee",
+        "vue",
+        "vuejs"
+    ],
+    "homepage": "https://github.com/colee1985/yii2-vue",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "colee",
+            "email": "5969226@qq.com"
+        }
+    ],
+    "require": {
+        "php" : "~5.5|~7.0",
+        "bower-asset/vue": "^1.0.0"
+    }
+}
+
