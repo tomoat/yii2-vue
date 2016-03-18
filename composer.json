@@ -10,6 +10,7 @@
     ],
     "homepage": "https://github.com/colee1985/yii2-vue",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "colee",
