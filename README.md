@@ -11,7 +11,7 @@ PSRs you support to avoid any confusion with users and contributors.
 Via Composer
 
 ``` bash
-$ composer require colee1985/yii2-vue
+$ composer require colee/yii2-vue
 ```
 
 ## Usage
