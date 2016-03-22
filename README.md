@@ -19,7 +19,7 @@ $ composer require colee/yii2-vue
 Somewhere in your view
 
 ``` php
-VueJsAsset::register($this);
+VueAsset::register($this);
 ```
 
 ## Change log
