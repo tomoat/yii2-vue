@@ -7,7 +7,9 @@
         "colee",
         "vue",
         "vuejs",
-        "yii2-vue"
+        "yii2-vue",
+        "colee/yii2-vue",
+        "colee/vue"
     ],
     "license": "MIT",
     "homepage": "https://github.com/colee1985/yii2-vue",
