@@ -5,6 +5,7 @@
     "keywords": [
         "yii2",
         "colee",
+        "vue2",
         "vue",
         "vuejs",
         "yii2-vue"
@@ -21,8 +22,7 @@
         }
     ],
     "require": {
-        "php" : "~5.5|~7.0",
-        "yiisoft/yii2-bootstrap": "@dev"
+        "php" : "~5.4",
     },
     "autoload": {
         "psr-4": {
