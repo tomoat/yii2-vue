@@ -14,6 +14,11 @@ Via Composer
 $ composer require colee/yii2-vue
 ```
 
+If you want to use VUE 1.X
+``` bash
+$ composer require colee/yii2-vue@1.0.3
+```
+
 ## Usage
 
 Somewhere in your view
